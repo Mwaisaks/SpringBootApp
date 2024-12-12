@@ -5,5 +5,7 @@ import java.util.ArrayList;
 public class Employees {
     ArrayList<Employee> employees = new ArrayList<>();
 
-    public
+    public displayEmployees(){
+        return employees
+    }
 }
